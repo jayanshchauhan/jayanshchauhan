@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayanshchauhan" target="blank"><img src="https://img.shields.io/twitter/follow/jayanshchauhan?logo=twitter&style=for-the-badge" alt="jayanshchauhan" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **NestJs,AWS,KAFKA**
 
 - 👨‍💻 All of my projects are available at [https://netflixgpt-98554.web.app/browse](https://netflixgpt-98554.web.app/browse)
 
@@ -35,3 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanshchauhan&" alt="jayanshchauhan" /></p>
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Royal_Coder14&theme=light" alt="LeetCode Badges"/>
+
+![](https://leetcard.jacoblin.cool/Royal_Coder14?theme=unicorn)
