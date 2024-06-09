@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: COOL DEVELOPER
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Royal_Coder14}&theme={dark}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Royal_Coder14&theme=dark" alt="LeetCode Badges"/>
